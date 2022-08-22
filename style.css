@@ -48,7 +48,7 @@ h5{
     color: white;
 }
 .card img{
-    height: 50%;
+    /* height: 30%; */
     width: 70%;
     position: relative;
     left: 14%;
@@ -58,7 +58,15 @@ h5{
  .apple-heading{
     text-align: center;
  }
- .card-search{
-    /* height: 50%; */
-    
+ 
+ /* .di{
+   
+    height: 270px;
+    width: 100%;
+
  }
+ di img{
+border: none;
+outline: none;
+display: none;
+ } */
